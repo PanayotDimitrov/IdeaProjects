@@ -1,11 +1,8 @@
 package DefiningClasses.OpinionPoll;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
-import java.util.function.Consumer;
-import java.util.stream.Collectors;
 
 public class Main {
     public static void main(String[] args) {
@@ -33,7 +30,7 @@ public class Main {
 
 
                 //da sortiram imenata vuv vuzhodqsht red
-                
+
                 System.out.println(allPeople.get(i));
             }
         }
